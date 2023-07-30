@@ -2,7 +2,9 @@ package com.bs.math;
 
 public class Abs {
 	
-	//this is a new added file
+	private void name() {
+		System.out.println("aaaaaaaaaaaaaaaaa");
+	}
 	
 
 }
