@@ -3,7 +3,7 @@ package com.bs.math;
 public class Abs {
 	
 	//this is a new added file
-	public void play()
+	public void playFootball()
 	{
 		System.out.println("stash example"); 
 	}
