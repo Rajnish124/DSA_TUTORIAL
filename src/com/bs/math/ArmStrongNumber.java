@@ -1,5 +1,6 @@
 package com.bs.math;
 
+//Armstrong Number
 public class ArmStrongNumber {
 	
 	public static void checkArmstrong(int N) {
